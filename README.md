@@ -37,21 +37,21 @@ This project implements **steganography** to embed **secret messages inside imag
 
 ## 🖼️ Usage
 1. 🔑 **Encryption (Hiding a Message)**
-   Upload an image for encryption.
-   Enter your secret message.
-   Enter a password.
-   Click "Encrypt and Save 🔐".
-   Download the encrypted image.
+- Upload an image for encryption.
+- Enter your secret message.
+- Enter a password.
+- Click "Encrypt and Save 🔐".
+- Download the encrypted image.
 
 2. 🔓 **Decryption (Retrieving the Message)**
-   Upload the encrypted image.
-   Enter the password.
-   Click "Decrypt Message 🔓".
-   View the decrypted message.
+- Upload the encrypted image.
+- Enter the password.
+- Click "Decrypt Message 🔓".
+- View the decrypted message.
 
 3. 🔮 **Future Scope**
-   Implement AES encryption for additional security.
-   Extend the project to video & audio steganography.
+- Implement AES encryption for additional security.
+- Extend the project to video & audio steganography.
 
 4. 📜 **License**
 This project is open-source under the MIT License.
