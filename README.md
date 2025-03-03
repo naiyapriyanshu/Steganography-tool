@@ -1,4 +1,4 @@
-# 🖼️ Secure Image Steganography Portal
+# 🖼️ Secure Image Steganography Tool
 
 🔒 **Hide secret messages inside images using Steganography**  
 
